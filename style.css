@@ -1,0 +1,52 @@
+body{
+    background: center;
+    background-color: darkgray;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+table{
+    font-family: Tahoma;
+    font-size: 20px;
+    width: 100%;
+    color: darkblue;
+    background-color: aqua;
+}
+th{
+    color: brown;
+    text-align: center;
+    border: 15px solid rgb(0, 3, 4);
+}
+td{
+    text-align: center;
+    border: 1px solid black;
+}
+h1{
+    font-size: 40px;
+    font-family: Arial;
+    color: rgb(83, 209, 24);
+    text-align: center;
+}
+h2{
+    font-size: 20px;
+    font-family: Arial;
+    color: black;
+    text-align: center;
+}
+
+.bgroove {
+    border: groove 30px;
+    background-color: blue;
+    padding: 25px;
+}
+.binset {
+    border: inset 15px;
+    background-color: rgb(36, 194, 15);
+    padding: 25px;
+}
+.boutset {
+    border: outset 15px;
+    background-color: rgb(212, 17, 56);
+    padding: 25px;
+}
